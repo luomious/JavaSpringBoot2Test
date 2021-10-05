@@ -4,7 +4,7 @@
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
 
-<bean id="haha" class="com.atguigu1.boot.bean.User">
+<bean id="user01" class="com.atguigu.boot.bean.User">
     <property name="name" value="zhangsan"></property>
     <property name="age" value="18">
 
@@ -12,7 +12,7 @@
 
 </bean>
 
-    <bean id="hehe" class="com.atguigu1.boot.bean.Pet">
+    <bean id="hehe" class="com.atguigu.boot.bean.Pet">
         <property name="name" value="tomcat"></property>
 
     </bean>

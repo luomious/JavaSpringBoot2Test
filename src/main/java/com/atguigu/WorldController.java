@@ -1,4 +1,4 @@
-package com.atguigu1;
+package com.atguigu;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

@@ -1,6 +1,6 @@
-package com.atguigu1.boot.controller;
+package com.atguigu.boot.controller;
 
-import com.atguigu1.boot.bean.Car;
+import com.atguigu.boot.bean.Car;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;

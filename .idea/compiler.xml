@@ -6,13 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="JavaSpringBoot2Test" />
+        <module name="JavaSpringBoot2" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="JavaSpringBoot2Test" options="-parameters" />
+      <module name="JavaSpringBoot2" options="-parameters" />
     </option>
   </component>
 </project>

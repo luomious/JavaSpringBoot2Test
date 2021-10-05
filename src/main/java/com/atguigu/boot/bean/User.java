@@ -1,4 +1,4 @@
-package com.atguigu1.boot.bean;
+package com.atguigu.boot.bean;
 
 public class User {
     private String name;

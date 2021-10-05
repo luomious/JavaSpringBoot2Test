@@ -1,4 +1,4 @@
-package com.atguigu1.boot;
+package com.atguigu.boot;
 
 
 import org.springframework.boot.SpringApplication;
@@ -19,7 +19,7 @@ import org.springframework.context.ConfigurableApplicationContext;
 //@SpringBootConfiguration  :
 //@EnableAutoConfiguration    ：最重要的合成注解
 //@ComponentScan:扫描
-@SpringBootApplication(scanBasePackages = "com.atguigu1")//组合注解
+@SpringBootApplication(scanBasePackages = "com.atguigu")//组合注解
 public class MainApplication {
     public static void main(String[] args) {
         //1.返回IOC容器
